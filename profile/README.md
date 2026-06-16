@@ -30,7 +30,7 @@
 
 ## about
 
-UMBRASEC is an independent defensive security practice run by [`0xdev1`](https://github.com/atraxsrc). It publishes detection engineering, threat analysis, and practical guidance for small and mid-sized businesses - openly, and tied to primary sources.
+UMBRASEC is an independent defensive security practice run by [`0xdev1`](https://umbrasec.dev). It publishes detection engineering, threat analysis, and practical guidance for small and mid-sized businesses - openly, and tied to primary sources.
 
 - **focus**: Detection engineering · Threat analysis · vCISO for SMBs
 - **frameworks**: MITRE ATT&CK, Essential Eight, ISO 27001, NIST CSF 2.0
